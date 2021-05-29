@@ -28,4 +28,6 @@ bash <(curl -Ls https://raw.githubusercontent.com/atrandys/xray/main/install_wp.
 - iOS / Mac
   - [Shadowrocket](https://apps.apple.com/app/shadowrocket/id932747118)
 
+yum -y install wget ##ContOS Yum 安装 wget
 
+apt-get install wget ##Debian Ubuntu 安装 wget
